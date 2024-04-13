@@ -17,7 +17,7 @@ while True:
     if answer == "ls":
         ls()
         break
-    elif answer == "Калькоулятор":
+    elif answer == "Калькулятор":
         calculatlor()
         break
     elif answer == "Блокнот":
