@@ -17,16 +17,16 @@ while True:
     if answer == "ls":
         ls()
         break
-    elif answer == "Калькулятор":
+    elif answer == "калькулятор" or "calc":
         calculatlor()
         break
-    elif answer == "Блокнот":
+    elif answer == "блокнот" or "notepad":
         notpad()
         break
     elif answer == "debug":
         dbg()
         break
-    elif answer == "Выйти":
+    elif answer == "выйти" or "exit":
         exit()
     elif answer == "cd":
         cd()
